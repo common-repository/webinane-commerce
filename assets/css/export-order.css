@@ -1,0 +1,85 @@
+.wpcommerce-exporter-wrapper {
+	text-align: center;
+	max-width: 700px;
+	margin: 40px auto;
+}
+
+.wpcommerce-exporter-wrapper .wpcommerce-exporter {
+	background: #fff;
+	overflow: hidden;
+	padding: 0;
+	margin: 0 0 16px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, .13);
+	color: #555;
+	text-align: left;
+}
+
+.wpcommerce-exporter-wrapper .wpcommerce-exporter header {
+	border-bottom: 1px solid #eee;
+	margin: 0;
+	padding: 24px 24px 0;
+}
+
+.wpcommerce-exporter-wrapper .wpcommerce-exporter h2 {
+	margin: 0 0 24px;
+	color: #555;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 1em;
+}
+
+.wpcommerce-exporter-wrapper .wpcommerce-exporter p {
+	font-size: 1em;
+	line-height: 1.75em;
+	font-size: 16px;
+	color: #555;
+	margin: 0 0 24px;
+}
+
+.wpcommerce-exporter-wrapper .wpcommerce-exporter section {
+	padding: 24px 24px 0;
+}
+
+.wpcommerce table.form-table {
+	margin: 0;
+	position: relative;
+	table-layout: fixed;
+}
+
+.wpcommerce-exporter-wrapper .wpcommerce-exporter .wpcommerce-exporter-options th {
+	width: 35%;
+	padding-right: 20px;
+}
+
+.wpcommerce-exporter-wrapper .wpcommerce-exporter .wpcommerce-exporter-options td label,
+.wpcommerce-exporter-wrapper .wpcommerce-exporter .wpcommerce-exporter-options th label {
+	color: #555;
+	font-weight: 400;
+}
+
+.wpcommerce-exporter-wrapper .wpcommerce-exporter .wpcommerce-exporter-options td,
+.wpcommerce-exporter-wrapper .wpcommerce-exporter .wpcommerce-exporter-options th {
+	vertical-align: top;
+	line-height: 1.75em;
+	padding: 0 0 24px 0;
+}
+
+.wpcommerce table.form-table select {
+	width: 400px;
+	margin: 0;
+	box-sizing: border-box;
+	line-height: 32px;
+	vertical-align: top;
+}
+
+.wpcommerce-exporter-wrapper .wpcm-actions {
+	overflow: hidden;
+	border-top: 1px solid #eee;
+	margin: 0;
+	padding: 23px 24px 24px;
+	line-height: 3em;
+}
+
+.wpcommerce-exporter-button>span {
+	display: none;
+}

@@ -1,0 +1,27 @@
+{    
+    "show-gross-revenue" : {
+        "label" : "Show gross revenue",
+        "value" : true
+    },
+    "show-net-revenue" : {
+        "label" : "Show net revenue",
+        "value" : true
+    },
+    "show-number-of-orders" : {
+        "label" : "Show number of orders",
+        "value" : true
+    },
+    "show-average" : {
+        "label" : "Show average",
+        "value" : true
+    },
+    "show-order-value" : {
+        "label" : "order value",
+        "value" : true
+    },
+    "show-numebr-of-order" : {
+        "label" : "Show number of orders",
+        "value" : true
+    }
+
+}

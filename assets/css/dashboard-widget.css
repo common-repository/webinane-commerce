@@ -1,0 +1,35 @@
+.wpcm-month-net-sale .wpcm-col-sm-4 {
+	display: inline-block;
+	text-align: left;
+	width: 32.7%;
+}
+.wpcm-month-net-sale a {
+	/* color: #000; */
+	font-weight: bold;
+	display: block;
+	position: relative;
+	margin-bottom: 7px;
+}
+.wpcm-month-net-sale a:active i,
+.wpcm-month-net-sale a:hover i {
+	color: #00a0d2;
+}
+.wpcm-month-net-sale a > i {
+	display: block;
+	position: relative;
+	font-size: 30px;
+	margin-bottom: 17px;
+}
+.wpcm-month-net-sale small {
+	display: block;
+	position: relative;
+}
+.wpcm-month-net-sale .dashicons-chart-bar {
+	color: #2ab170;
+}
+.wpcm-month-net-sale .dashicons-migrate {
+	color: #f15b26;
+}
+.wpcm-month-net-sale .dashicons-warning {
+	color: #d98c18;
+}

@@ -1,0 +1,1764 @@
+# Copyright (C) 2020 Webinane
+# This file is distributed under the same license as the Webinane Commerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Webinane Commerce 2.2.3\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/webinane-commerce\n"
+"POT-Creation-Date: 2020-11-30 08:58:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: config/checkout_form.php:6 includes/Admin/Settings.php:297
+msgid "WP Commerce"
+msgstr ""
+
+#: config/checkout_form.php:13 config/my-account.php:67
+#: templates/checkout/billing.php:8 templates/checkout/shipping.php:8
+msgid "First Name"
+msgstr ""
+
+#: config/checkout_form.php:14 config/my-account.php:68
+msgid "Enter the first name"
+msgstr ""
+
+#: config/checkout_form.php:19 config/my-account.php:76
+#: templates/checkout/billing.php:9 templates/checkout/shipping.php:9
+msgid "Last Name"
+msgstr ""
+
+#: config/checkout_form.php:20
+msgid "Please enter your last name"
+msgstr ""
+
+#: config/checkout_form.php:25 templates/admin/order-metabox-basic.php:2
+msgid "Address Line 1"
+msgstr ""
+
+#: config/checkout_form.php:26 config/checkout_form.php:32
+msgid "Enter the store address"
+msgstr ""
+
+#: config/checkout_form.php:31 config/settings.php:32
+#: templates/admin/order-metabox-basic.php:3
+msgid "Address Line 2"
+msgstr ""
+
+#: config/checkout_form.php:37 config/settings.php:26
+#: templates/admin/order-metabox-basic.php:4
+msgid "City"
+msgstr ""
+
+#: config/checkout_form.php:38
+msgid "Enter the store city"
+msgstr ""
+
+#: config/checkout_form.php:43
+msgid "Base Country"
+msgstr ""
+
+#: config/checkout_form.php:44 config/my-account.php:93
+msgid "Choose the base country"
+msgstr ""
+
+#: config/checkout_form.php:50 config/my-account.php:127
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: config/checkout_form.php:51 config/my-account.php:128
+msgid "Enter the postcode or ZIP"
+msgstr ""
+
+#: config/i18n.php:5 templates/admin/order-metabox-items.php:7
+#: templates/checkout/items.php:8
+msgid "Item"
+msgstr ""
+
+#: config/i18n.php:6 includes/Classes/Orders.php:326
+#: templates/admin/order-metabox-items.php:8 templates/checkout/items.php:9
+msgid "Cost"
+msgstr ""
+
+#: config/i18n.php:7 includes/Classes/Orders.php:327
+#: templates/admin/order-metabox-items.php:9 templates/checkout/items.php:10
+msgid "Qty"
+msgstr ""
+
+#: config/i18n.php:8 includes/Classes/Emails.php:308
+#: templates/orders/offline-order-detail.php:71
+#: templates/orders/order-detail.php:15
+#: templates/orders/paypal-order-detail.php:65
+msgid "Price"
+msgstr ""
+
+#: config/i18n.php:9 includes/Classes/Emails.php:223
+#: includes/Classes/Orders.php:328 includes/Classes/Orders.php:561
+#: includes/Classes/Orders.php:1180 templates/admin/order-metabox-items.php:10
+#: templates/checkout/items.php:11 templates/emails/customer-new-order.php:112
+#: templates/emails/layouts/template.php:112
+#: templates/orders/offline-order-detail.php:73
+#: templates/orders/order-detail.php:16
+#: templates/orders/paypal-order-detail.php:67
+msgid "Total"
+msgstr ""
+
+#: config/i18n.php:10
+msgid "Action"
+msgstr ""
+
+#: config/i18n.php:11
+msgid "to edit this order change the status back to \"pending\""
+msgstr ""
+
+#: config/i18n.php:12
+msgid "This order is no longer editable."
+msgstr ""
+
+#: config/i18n.php:13
+msgid "Add Item"
+msgstr ""
+
+#: config/i18n.php:14
+msgid "Refund"
+msgstr ""
+
+#: config/i18n.php:15
+msgid "Sub total"
+msgstr ""
+
+#: config/i18n.php:16
+msgid "Select product"
+msgstr ""
+
+#: config/my-account.php:6
+msgid "Personal Profile"
+msgstr ""
+
+#: config/my-account.php:12
+msgid "Profile Image"
+msgstr ""
+
+#: config/my-account.php:13
+msgid "JPG, GIF or PNG 100x100 px"
+msgstr ""
+
+#: config/my-account.php:17
+msgid "Personal Information"
+msgstr ""
+
+#: config/my-account.php:20
+msgid "Update Image"
+msgstr ""
+
+#: config/my-account.php:25
+msgid "Account Name"
+msgstr ""
+
+#: config/my-account.php:26
+msgid "Enter the account name"
+msgstr ""
+
+#: config/my-account.php:33 templates/checkout/billing.php:45
+msgid "Email Address"
+msgstr ""
+
+#: config/my-account.php:34
+msgid "Enter the email Address"
+msgstr ""
+
+#: config/my-account.php:41 templates/admin/connect.php:62
+#: templates/my-account/my-account.php:32
+#: templates/my-account/my-account.php:80
+msgid "Password"
+msgstr ""
+
+#: config/my-account.php:42
+msgid "Enter the new password if you want to change"
+msgstr ""
+
+#: config/my-account.php:43
+msgid "Enter the password again to confirm whether it is correct"
+msgstr ""
+
+#: config/my-account.php:49
+msgid "Website"
+msgstr ""
+
+#: config/my-account.php:50
+msgid "Enter the website url"
+msgstr ""
+
+#: config/my-account.php:57
+msgid "Author Bio"
+msgstr ""
+
+#: config/my-account.php:58
+msgid "Short Description of your Self."
+msgstr ""
+
+#: config/my-account.php:72
+msgid "Billing Information"
+msgstr ""
+
+#: config/my-account.php:77
+msgid "Enter the last name"
+msgstr ""
+
+#: config/my-account.php:84 templates/checkout/billing.php:12
+#: templates/checkout/billing.php:13 templates/checkout/shipping.php:12
+msgid "Company Name"
+msgstr ""
+
+#: config/my-account.php:85
+msgid "Enter the company name"
+msgstr ""
+
+#: config/my-account.php:92 templates/admin/order-metabox-basic.php:5
+#: templates/checkout/billing.php:16 templates/checkout/shipping.php:16
+msgid "Country"
+msgstr ""
+
+#: config/my-account.php:103 templates/checkout/billing.php:24
+#: templates/checkout/shipping.php:24
+msgid "Street Address"
+msgstr ""
+
+#: config/my-account.php:104 config/my-account.php:112
+msgid "Enter the house number and street name"
+msgstr ""
+
+#: config/my-account.php:111
+msgid "Street Address 2"
+msgstr ""
+
+#: config/my-account.php:119
+msgid "Town And City"
+msgstr ""
+
+#: config/my-account.php:120
+msgid "Enter the name of town and city"
+msgstr ""
+
+#: config/my-account.php:135 templates/checkout/billing.php:41
+#: templates/checkout/shipping.php:41
+msgid "Phone No"
+msgstr ""
+
+#: config/my-account.php:136
+msgid "Enter the Phone No"
+msgstr ""
+
+#: config/my-account.php:144
+msgid "Facebook"
+msgstr ""
+
+#: config/my-account.php:145
+msgid "Enter the facebook url"
+msgstr ""
+
+#: config/my-account.php:149
+msgid "Social Profiles"
+msgstr ""
+
+#: config/my-account.php:153
+msgid "Twitter"
+msgstr ""
+
+#: config/my-account.php:154
+msgid "Enter the twitter url"
+msgstr ""
+
+#: config/my-account.php:161
+msgid "Linkedin"
+msgstr ""
+
+#: config/my-account.php:162
+msgid "Enter the linkedin url"
+msgstr ""
+
+#: config/my-account.php:169
+msgid "Pinterest"
+msgstr ""
+
+#: config/my-account.php:170
+msgid "Enter the pinterest url"
+msgstr ""
+
+#: config/my-account.php:179
+msgid "My Orders"
+msgstr ""
+
+#: config/my-account.php:189
+msgid "Payment Methods"
+msgstr ""
+
+#: config/settings.php:13 config/settings.php:80
+msgid "General"
+msgstr ""
+
+#: config/settings.php:19
+msgid "Address Info"
+msgstr ""
+
+#: config/settings.php:20
+msgid "Address Information"
+msgstr ""
+
+#: config/settings.php:23
+msgid "Select Country and State"
+msgstr ""
+
+#: config/settings.php:25
+msgid "Choose the base country and state"
+msgstr ""
+
+#: config/settings.php:28
+msgid "Enter the base city"
+msgstr ""
+
+#: config/settings.php:29
+msgid "Add Address"
+msgstr ""
+
+#: config/settings.php:31 config/settings.php:33
+msgid "Enter the business address"
+msgstr ""
+
+#: config/settings.php:34
+msgid "ZIP Code"
+msgstr ""
+
+#: config/settings.php:36
+msgid "Enter the ZIP / Postal Code"
+msgstr ""
+
+#: config/settings.php:42
+msgid "Currency Info"
+msgstr ""
+
+#: config/settings.php:43
+msgid "Currency Information"
+msgstr ""
+
+#: config/settings.php:46
+msgid "Select Currency"
+msgstr ""
+
+#: config/settings.php:49
+msgid "Choose the base currency"
+msgstr ""
+
+#: config/settings.php:50
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: config/settings.php:53
+msgid "Left (eg: $2,000.00)"
+msgstr ""
+
+#: config/settings.php:54
+msgid "Right (eg: 2,000.00$)"
+msgstr ""
+
+#: config/settings.php:55
+msgid "Left with Space (eg: $ 2,000.00)"
+msgstr ""
+
+#: config/settings.php:56
+msgid "Right with Space (eg: 2,000.00 $)"
+msgstr ""
+
+#: config/settings.php:58
+msgid "Choose the currency symbol position"
+msgstr ""
+
+#: config/settings.php:60
+msgid "Thousand Saparate"
+msgstr ""
+
+#: config/settings.php:62
+msgid "Enter the thousand amount saparator"
+msgstr ""
+
+#: config/settings.php:63
+msgid "Decimal Separator"
+msgstr ""
+
+#: config/settings.php:65
+msgid "Enter the decimal saparator"
+msgstr ""
+
+#: config/settings.php:66
+msgid "Number of decimals"
+msgstr ""
+
+#: config/settings.php:68
+msgid "Enter the number of decimals"
+msgstr ""
+
+#: config/settings.php:76
+msgid "Payments"
+msgstr ""
+
+#: config/settings.php:83
+msgid "Gateway Settings"
+msgstr ""
+
+#: config/settings.php:85
+msgid "Test Mode"
+msgstr ""
+
+#: config/settings.php:86
+msgid ""
+"While in the test mode no live payments are processed. To fully use test "
+"mode, you must have a sandbox(test) account for payment gateway"
+msgstr ""
+
+#: config/settings.php:87
+msgid "Gateways"
+msgstr ""
+
+#: config/settings.php:96
+msgid ""
+"Enable your payment gateway. Want to get more payment gateways? <a "
+"href=\"%s\" target=\"_blank\">Click Here</a>"
+msgstr ""
+
+#: config/settings.php:99
+msgid "Default Gateway"
+msgstr ""
+
+#: config/settings.php:108
+msgid "Choose the default gateway. The gateway will be select by default."
+msgstr ""
+
+#: config/settings.php:114
+msgid "Display"
+msgstr ""
+
+#: config/settings.php:119
+msgid "Checkout Page"
+msgstr ""
+
+#: config/settings.php:121
+msgid "Choose the checkout page"
+msgstr ""
+
+#: config/settings.php:123
+msgid "Order Success Page"
+msgstr ""
+
+#: config/settings.php:125
+msgid "Choose the to show when an order is successfull"
+msgstr ""
+
+#: config/settings.php:127
+msgid "My Account Page"
+msgstr ""
+
+#: config/settings.php:129
+msgid "Choose the my account page"
+msgstr ""
+
+#: config/settings.php:131
+msgid "Redirect to Checkout"
+msgstr ""
+
+#: config/settings.php:132
+msgid "Redirect user to checkout page after add to cart"
+msgstr ""
+
+#: config/settings.php:136
+msgid "Emails"
+msgstr ""
+
+#: config/settings.php:142
+msgid "Customer Email"
+msgstr ""
+
+#: config/settings.php:143
+msgid "Email Setting for Customers"
+msgstr ""
+
+#: config/settings.php:146 config/settings.php:182
+msgid "Subject"
+msgstr ""
+
+#: config/settings.php:147
+msgid ""
+"Enter the subject for customer's email. You can use placeholders "
+"<pre>{{customer_name}} {{customer_email}} {{site_name}} {{site_url}}</pre>  "
+"<pre>{{admin_email}} {{customer_account_url}} {{admin_order_url}}</pre> "
+"<pre>{{total_amount}}</pre>"
+msgstr ""
+
+#: config/settings.php:148
+msgid "Header Logo"
+msgstr ""
+
+#: config/settings.php:149 config/settings.php:153
+msgid "Add Logo"
+msgstr ""
+
+#: config/settings.php:150 config/settings.php:154
+msgid "Change Logo"
+msgstr ""
+
+#: config/settings.php:151
+msgid "Choose the logo you want to show in the email header"
+msgstr ""
+
+#: config/settings.php:152
+msgid "Footer Logo"
+msgstr ""
+
+#: config/settings.php:155
+msgid "Choose the logo you want to show in the email footer"
+msgstr ""
+
+#: config/settings.php:156 config/settings.php:184
+msgid "Greeting Text"
+msgstr ""
+
+#: config/settings.php:158 config/settings.php:186
+msgid "Enter the greeting text of the email"
+msgstr ""
+
+#: config/settings.php:159 config/settings.php:187
+msgid "Email Body"
+msgstr ""
+
+#: config/settings.php:160 config/settings.php:188
+msgid "You can use HTML Tags."
+msgstr ""
+
+#: config/settings.php:161 config/settings.php:189
+msgid "Footer Text"
+msgstr ""
+
+#: config/settings.php:163 config/settings.php:191
+msgid "Enter the text you want to show in footer"
+msgstr ""
+
+#: config/settings.php:164
+msgid "Show Quantity"
+msgstr ""
+
+#: config/settings.php:166
+msgid "Whether to show the total quantity in email"
+msgstr ""
+
+#: config/settings.php:167
+msgid "Show Customer Address"
+msgstr ""
+
+#: config/settings.php:169
+msgid "Whether to show the customer address detail in email"
+msgstr ""
+
+#: config/settings.php:170
+msgid "Show Item Detail"
+msgstr ""
+
+#: config/settings.php:172
+msgid "Whether to show the item or donation detail in email"
+msgstr ""
+
+#: config/settings.php:178
+msgid "Admin Email"
+msgstr ""
+
+#: config/settings.php:179
+msgid "Email Setting for Admin"
+msgstr ""
+
+#: config/settings.php:183
+msgid ""
+"Enter the subject for admin's email. You can use placeholders "
+"<pre>{{customer_name}} {{customer_email}} {{site_name}} {{site_url}}</pre>  "
+"<pre>{{admin_email}} {{customer_account_url}} {{admin_order_url}}</pre> "
+"<pre>{{total_amount}}</pre>"
+msgstr ""
+
+#: includes/Admin/Dashboard.php:25
+msgid "You are not authorized to do this action"
+msgstr ""
+
+#: includes/Admin/Dashboard.php:138
+msgid "Invalid Customer ID provided"
+msgstr ""
+
+#: includes/Admin/Dashboard.php:143
+msgid "Specified customer is not found"
+msgstr ""
+
+#: includes/Admin/Dashboard.php:147
+msgid "Invalid customer email provided"
+msgstr ""
+
+#: includes/Admin/Dashboard.php:157
+msgid "Customer is updated Successfully"
+msgstr ""
+
+#: includes/Admin/Dashboard.php:207
+msgid "Customer is not found"
+msgstr ""
+
+#: includes/Admin/Dashboard.php:211
+msgid "Customer is deleted Successfully"
+msgstr ""
+
+#: includes/Admin/Settings.php:55
+msgid "WPCM Checkout Page"
+msgstr ""
+
+#: includes/Admin/Settings.php:57
+msgid "WPCM Order Success Page"
+msgstr ""
+
+#: includes/Admin/Settings.php:59
+msgid "WPCM My Account Page"
+msgstr ""
+
+#: includes/Admin/Settings.php:139
+msgid "Sucurity verification failed"
+msgstr ""
+
+#: includes/Admin/Settings.php:143 includes/Admin/Settings.php:424
+#: includes/Classes/Customers.php:286 includes/Classes/Customers.php:319
+#: includes/Classes/Customers.php:333 includes/Classes/Customers.php:359
+#: includes/Classes/Metaboxes.php:91 includes/Classes/MyAccount.php:90
+#: includes/Classes/Orders.php:779 includes/Classes/Orders.php:829
+#: includes/Classes/Orders.php:865
+msgid "You are not authorized"
+msgstr ""
+
+#: includes/Admin/Settings.php:174
+msgid "Settings are updated successfully"
+msgstr ""
+
+#: includes/Admin/Settings.php:176 includes/Classes/Checkout.php:173
+#: includes/Classes/Orders.php:899 includes/Gateways/GatewayPaypal.php:343
+msgid "Something went wrong"
+msgstr ""
+
+#: includes/Admin/Settings.php:197
+msgid "Invalid File provided"
+msgstr ""
+
+#: includes/Admin/Settings.php:205
+msgid "Invalid URL Provided"
+msgstr ""
+
+#: includes/Admin/Settings.php:224
+msgid "Please provide a proper json data"
+msgstr ""
+
+#: includes/Admin/Settings.php:228
+msgid "Settings are imported successfully"
+msgstr ""
+
+#: includes/Admin/Settings.php:296
+msgid "WP Commerce Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:306 includes/Admin/Settings.php:307
+msgid "Dashboard"
+msgstr ""
+
+#: includes/Admin/Settings.php:315
+msgid "Webinane Extensions"
+msgstr ""
+
+#: includes/Admin/Settings.php:316
+msgid "Extensions"
+msgstr ""
+
+#: includes/Admin/Settings.php:327 includes/Classes/Emails.php:306
+#: includes/Classes/MyAccount.php:406 includes/Classes/Orders.php:193
+#: includes/Classes/Orders.php:204 templates/emails/customer-new-order.php:11
+#: templates/emails/layouts/template.php:11
+#: templates/orders/offline-order-detail.php:18
+#: templates/orders/paypal-order-detail.php:14
+msgid "Orders"
+msgstr ""
+
+#: includes/Admin/Settings.php:440
+msgid "File is valid, and was successfully uploaded."
+msgstr ""
+
+#: includes/Classes/Ajax.php:50 includes/Classes/Checkout.php:135
+msgid "Security verification failed"
+msgstr ""
+
+#: includes/Classes/Ajax.php:58
+msgid "Item id is not provided"
+msgstr ""
+
+#: includes/Classes/Ajax.php:74 includes/Classes/Ajax.php:77
+msgid "Item added to cart"
+msgstr ""
+
+#: includes/Classes/Ajax.php:89 includes/Classes/Ajax.php:103
+msgid "Security check failed, try again after refresh the page"
+msgstr ""
+
+#: includes/Classes/Checkout.php:66
+msgid "Added to cart"
+msgstr ""
+
+#: includes/Classes/Checkout.php:85
+msgid "Removed from cart"
+msgstr ""
+
+#: includes/Classes/Checkout.php:141
+msgid "Your cart is empty"
+msgstr ""
+
+#: includes/Classes/Checkout.php:154
+msgid "Please provide a valid email"
+msgstr ""
+
+#: includes/Classes/Checkout.php:182
+msgid "Please refresh the page and try again"
+msgstr ""
+
+#: includes/Classes/Checkout.php:279
+msgid "Billing Email"
+msgstr ""
+
+#: includes/Classes/Checkout.php:280
+msgid "Billing First Name"
+msgstr ""
+
+#: includes/Classes/Checkout.php:281
+msgid "Billing Address"
+msgstr ""
+
+#: includes/Classes/Checkout.php:282
+msgid "Billing City"
+msgstr ""
+
+#: includes/Classes/Checkout.php:283
+msgid "Billing Country"
+msgstr ""
+
+#: includes/Classes/Checkout.php:284
+msgid "Security check"
+msgstr ""
+
+#: includes/Classes/Checkout.php:285
+msgid "Payment Gateway"
+msgstr ""
+
+#: includes/Classes/Customers.php:139
+msgid "There is something wrong with adding customer"
+msgstr ""
+
+#: includes/Classes/Customers.php:217
+msgid "Customer not found"
+msgstr ""
+
+#: includes/Classes/Customers.php:296
+msgid "Invalid email address provided"
+msgstr ""
+
+#: includes/Classes/Customers.php:299
+msgid "Name is either empty or size is less than 4"
+msgstr ""
+
+#: includes/Classes/Customers.php:310
+msgid "Customer is created successfully"
+msgstr ""
+
+#: includes/Classes/Customers.php:338 includes/Classes/Customers.php:364
+msgid "Invalid Customer ID"
+msgstr ""
+
+#: includes/Classes/Customers.php:344
+msgid "Given customer not found"
+msgstr ""
+
+#: includes/Classes/Customers.php:350
+msgid "Customer is removed"
+msgstr ""
+
+#: includes/Classes/DashboardWidgets.php:23
+msgid "WP Commerce Status"
+msgstr ""
+
+#: includes/Classes/Emails.php:88
+msgid "You order has been received - %s"
+msgstr ""
+
+#: includes/Classes/Emails.php:130
+msgid "New order is received - %s"
+msgstr ""
+
+#: includes/Classes/Emails.php:171
+msgid "Invoice for order # %s - %s"
+msgstr ""
+
+#: includes/Classes/Emails.php:224
+msgid "VAT"
+msgstr ""
+
+#: includes/Classes/Emails.php:225
+msgid "Total due"
+msgstr ""
+
+#: includes/Classes/Emails.php:228 includes/Classes/Orders.php:349
+#: includes/Classes/Orders.php:640
+msgid "Pending Payment"
+msgstr ""
+
+#: includes/Classes/Emails.php:229 includes/Classes/Orders.php:350
+#: includes/Classes/Orders.php:641
+msgid "Processing"
+msgstr ""
+
+#: includes/Classes/Emails.php:230 includes/Classes/Orders.php:351
+#: includes/Classes/Orders.php:642
+msgid "On Hold"
+msgstr ""
+
+#: includes/Classes/Emails.php:231 includes/Classes/Orders.php:352
+#: includes/Classes/Orders.php:643
+msgid "Completed"
+msgstr ""
+
+#: includes/Classes/Emails.php:232 includes/Classes/Orders.php:353
+#: includes/Classes/Orders.php:644
+msgid "Cancelled"
+msgstr ""
+
+#: includes/Classes/Emails.php:233 includes/Classes/Orders.php:354
+#: includes/Classes/Orders.php:645
+msgid "Refunded"
+msgstr ""
+
+#: includes/Classes/Emails.php:234 includes/Classes/Orders.php:355
+#: includes/Classes/Orders.php:646
+msgid "Failed"
+msgstr ""
+
+#: includes/Classes/Emails.php:238
+msgid "Important Notice"
+msgstr ""
+
+#: includes/Classes/Emails.php:307 includes/Classes/MyAccount.php:407
+#: includes/Classes/MyAccount.php:417 includes/Classes/Orders.php:194
+#: templates/emails/customer-new-order.php:12
+#: templates/emails/layouts/template.php:12
+#: templates/orders/offline-order-detail.php:19
+#: templates/orders/paypal-order-detail.php:15
+msgid "Order"
+msgstr ""
+
+#: includes/Classes/ExportOrders.php:25
+msgid "Please select the columns and post status."
+msgstr ""
+
+#: includes/Classes/ExportOrders.php:125
+msgid "No record found"
+msgstr ""
+
+#: includes/Classes/Metaboxes.php:101 includes/Gateways/GatewayPaypal.php:364
+msgid "There is something went wrong"
+msgstr ""
+
+#: includes/Classes/Metaboxes.php:112
+msgid "Updated Susscessfully"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:141
+msgid "Password length must be at least 10 character"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:144
+msgid "Password and confirm password does not match"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:205
+msgid "Profile Updated"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:216 includes/Classes/MyAccount.php:244
+msgid "Request is not validated."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:232
+msgid "Login successful."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:249
+msgid "Registration is not allowed at the moment"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:259
+msgid "Minimum password length must be 10."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:262
+msgid "Password and confirm password don't match"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:271
+msgid "Registration successful, please login."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:298
+msgid "<strong>Error</strong>: Please enter a username."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:300
+msgid ""
+"<strong>Error</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:303
+msgid ""
+"<strong>Error</strong>: This username is already registered. Please choose "
+"another one."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:309
+msgid "<strong>Error</strong>: Sorry, that username is not allowed."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:315
+msgid "<strong>Error</strong>: Please type your email address."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:317
+msgid "<strong>Error</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:320
+msgid ""
+"<strong>Error</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:365
+#. translators: %s: Admin email address.
+msgid ""
+"<strong>Error</strong>: Couldn&#8217;t register you&hellip; please contact "
+"the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:396 includes/Classes/MyAccount.php:461
+#: includes/Classes/MyAccount.php:477 includes/Classes/MyAccount.php:496
+msgid "You are not authorized to access it"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:418
+msgid "You don't have any %s"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:431
+msgid "You are not authorized to access it."
+msgstr ""
+
+#: includes/Classes/MyAccount.php:447
+msgid "You don't have any gatways"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:503
+msgid "Note should not be empty"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:507
+msgid "Please write a brief note"
+msgstr ""
+
+#: includes/Classes/MyAccount.php:539
+msgid "Note is added successfully"
+msgstr ""
+
+#: includes/Classes/Orders.php:109 templates/orders/order-detail.php:9
+msgid "Order Detail"
+msgstr ""
+
+#: includes/Classes/Orders.php:196
+msgid "Add New Order"
+msgstr ""
+
+#: includes/Classes/Orders.php:197
+msgid "Edit Order"
+msgstr ""
+
+#: includes/Classes/Orders.php:198
+msgid "New Order"
+msgstr ""
+
+#: includes/Classes/Orders.php:199
+msgid "View Order"
+msgstr ""
+
+#: includes/Classes/Orders.php:200
+msgid "Search Orders"
+msgstr ""
+
+#: includes/Classes/Orders.php:201
+msgid "No Orders found"
+msgstr ""
+
+#: includes/Classes/Orders.php:202
+msgid "No Orders found in Trash"
+msgstr ""
+
+#: includes/Classes/Orders.php:203
+msgid "Parent Order:"
+msgstr ""
+
+#: includes/Classes/Orders.php:251 includes/Classes/Orders.php:269
+#: includes/Classes/Orders.php:270 includes/Classes/Orders.php:308
+msgid "Export Orders"
+msgstr ""
+
+#: includes/Classes/Orders.php:312
+msgid "Export orders to a CSV file"
+msgstr ""
+
+#: includes/Classes/Orders.php:313
+msgid ""
+"This tool allows you to generate and download a CSV file containing a list "
+"of all orders."
+msgstr ""
+
+#: includes/Classes/Orders.php:320
+msgid "Which columns should be exported?"
+msgstr ""
+
+#: includes/Classes/Orders.php:324
+msgid "ID"
+msgstr ""
+
+#: includes/Classes/Orders.php:325
+msgid "Name"
+msgstr ""
+
+#: includes/Classes/Orders.php:329 templates/orders/offline-order-detail.php:55
+#: templates/orders/paypal-order-detail.php:54
+msgid "Currency"
+msgstr ""
+
+#: includes/Classes/Orders.php:330
+msgid "Status"
+msgstr ""
+
+#: includes/Classes/Orders.php:331
+msgid "Date Created"
+msgstr ""
+
+#: includes/Classes/Orders.php:332
+msgid "Customer Name"
+msgstr ""
+
+#: includes/Classes/Orders.php:333 includes/Classes/Orders.php:1181
+#: templates/admin/connect.php:59 templates/checkout/billing.php:46
+#: templates/my-account/my-account.php:73
+msgid "Email"
+msgstr ""
+
+#: includes/Classes/Orders.php:334 includes/Classes/Orders.php:557
+#: includes/Classes/Orders.php:1182
+#: templates/orders/offline-order-detail.php:37
+#: templates/orders/paypal-order-detail.php:33
+msgid "Gateway"
+msgstr ""
+
+#: includes/Classes/Orders.php:335 includes/Gateways/GatewayOffline.php:172
+#: includes/Gateways/GatewayPaypal.php:961
+msgid "Recurring"
+msgstr ""
+
+#: includes/Classes/Orders.php:336 includes/Gateways/GatewayOffline.php:182
+#: includes/Gateways/GatewayPaypal.php:972
+msgid "Recurring Cycle"
+msgstr ""
+
+#: includes/Classes/Orders.php:337 includes/Gateways/GatewayOffline.php:186
+#: includes/Gateways/GatewayPaypal.php:976
+msgid "Recurring Frequency"
+msgstr ""
+
+#: includes/Classes/Orders.php:343
+msgid "Which order status should be exported?"
+msgstr ""
+
+#: includes/Classes/Orders.php:366
+msgid "Start Date"
+msgstr ""
+
+#: includes/Classes/Orders.php:374
+msgid "End Date"
+msgstr ""
+
+#: includes/Classes/Orders.php:386
+msgid "Generate CSV"
+msgstr ""
+
+#: includes/Classes/Orders.php:524
+msgid "No replacement"
+msgstr ""
+
+#: includes/Classes/Orders.php:684
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Classes/Orders.php:695
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Classes/Orders.php:707
+msgid "On Hold <span class=\"count\">(%s)</span>"
+msgid_plural "On Hold <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Classes/Orders.php:719
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Classes/Orders.php:731
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Classes/Orders.php:742
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Classes/Orders.php:753
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Classes/Orders.php:815
+msgid "Successfully updated"
+msgstr ""
+
+#: includes/Classes/Orders.php:834
+msgid "Invalid Post id"
+msgstr ""
+
+#: includes/Classes/Orders.php:837
+msgid "No order found for the given ID"
+msgstr ""
+
+#: includes/Classes/Orders.php:875
+msgid "Invalid order data provided"
+msgstr ""
+
+#: includes/Classes/Orders.php:896
+msgid "Order updated successfully"
+msgstr ""
+
+#: includes/Classes/Orders.php:911 includes/Classes/Orders.php:984
+#: includes/Classes/Orders.php:1052 includes/Classes/Orders.php:1104
+#: includes/Classes/Orders.php:1129 includes/Classes/Orders.php:1158
+#: includes/Classes/Orders.php:1252
+#. translators: it replaces the email address.
+msgid "You are not authorized to do that"
+msgstr ""
+
+#: includes/Classes/Orders.php:941 includes/Classes/Orders.php:1037
+msgid "Item is updated successfully"
+msgstr ""
+
+#: includes/Classes/Orders.php:992 includes/Classes/Orders.php:1007
+msgid "Product doesn't exist"
+msgstr ""
+
+#: includes/Classes/Orders.php:1001
+msgid "Product pricie is not available"
+msgstr ""
+
+#: includes/Classes/Orders.php:1031
+msgid "Item is already in order, please update its quantity"
+msgstr ""
+
+#: includes/Classes/Orders.php:1088 includes/Classes/Orders.php:1114
+msgid "Note added successfully"
+msgstr ""
+
+#: includes/Classes/Orders.php:1142 includes/Classes/Orders.php:1167
+msgid "Note deleted successfully"
+msgstr ""
+
+#: includes/Classes/Orders.php:1179
+msgid "Donor"
+msgstr ""
+
+#: includes/Classes/Orders.php:1183
+msgid "Number of Items"
+msgstr ""
+
+#: includes/Classes/Orders.php:1184
+msgid "Date"
+msgstr ""
+
+#: includes/Classes/Orders.php:1379
+msgid "You have no permissions to do that"
+msgstr ""
+
+#: includes/Classes/Orders.php:1390
+msgid "Refund is processed successfully"
+msgstr ""
+
+#: includes/Classes/Orders.php:1392
+msgid "Gateway is not enabled"
+msgstr ""
+
+#: includes/Classes/Orders.php:1395
+msgid "Invalid gateway"
+msgstr ""
+
+#: includes/Classes/Webinane.php:159
+msgid "Minimum PHP version 7.1 is required for Webinane Commerce to work"
+msgstr ""
+
+#: includes/Fields/Media.php:53
+msgid "Add New"
+msgstr ""
+
+#: includes/Fields/Media.php:73
+msgid "Update"
+msgstr ""
+
+#: includes/Fields/Switcher.php:71
+msgid "ON"
+msgstr ""
+
+#: includes/Fields/Switcher.php:72
+msgid "OFF"
+msgstr ""
+
+#: includes/Functions.php:175
+msgid "--Select--"
+msgstr ""
+
+#: includes/Functions.php:230
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/Functions.php:344 includes/Functions.php:346
+msgid "Unable to find success page, Plese contact administrator"
+msgstr ""
+
+#: includes/Functions.php:355
+msgid "Invalided success page URL, Plese contact administrator"
+msgstr ""
+
+#: includes/Functions.php:357
+msgid "Invalid success page URL, Plese contact administrator"
+msgstr ""
+
+#: includes/Functions.php:643
+msgid "Security check is failed, please refresh the page and try again"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:44
+msgid "Offline Payment"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:45
+msgid "Pay offline via check or cash"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:74
+#: includes/Gateways/GatewayOffline.php:76
+msgid "Offline Gateway"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:80
+#: includes/Gateways/GatewayPaypal.php:103
+msgid "Title"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:85
+#: includes/Gateways/GatewayPaypal.php:108
+msgid "Title to show on the payment page"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:86
+#: includes/Gateways/GatewayPaypal.php:109
+#: templates/orders/offline-order-detail.php:33
+msgid "Description"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:91
+msgid "Description to show on the success page"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:92
+msgid "Payment Instructions"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:97
+msgid "Enter the instructions like bank account detail to show on success page"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:137
+msgid "The gateway is not active, please try another gateway"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:173
+#: includes/Gateways/GatewayPaypal.php:962
+msgid "YES"
+msgstr ""
+
+#: includes/Gateways/GatewayOffline.php:173
+#: includes/Gateways/GatewayPaypal.php:962
+msgid "NO"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:73
+#: includes/Gateways/GatewayPaypal.php:96
+#: includes/Gateways/GatewayPaypal.php:99
+msgid "PayPal Standard"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:74
+msgid "Pay using PayPal"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:100
+msgid "Enable sandbox mode to do test payments"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:114
+msgid "Description to show on the payment page"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:115
+msgid "PayPal Email"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:120
+msgid "Please enter your PayPal email, it is need to take the orders"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:123
+msgid "API Username"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:128
+msgid ""
+"Please enter your PayPal live API username, Learn how to access <a "
+"href=\"https://developer.paypal.com/webapps/developer/docs/classic/api/"
+"apiCredentials/#create-an-api-signature\" target=\"_blank\">PayPal API "
+"Credentials</a>"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:130
+msgid "API Password"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:135
+msgid "Please enter your PayPal live API password"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:138
+msgid "API Signature"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:143
+msgid ""
+"Please enter your PayPal live API signature, the IPN listening URL should "
+"be %s"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:305
+#: includes/Gateways/GatewayPaypal.php:644
+msgid "Billing agreement"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:733
+msgid "Invalid profile ID"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:902
+msgid "Payment was not completed, cannot give refund"
+msgstr ""
+
+#: includes/Gateways/GatewayPaypal.php:946
+msgid "Refund is processed successfully in PayPal"
+msgstr ""
+
+#: includes/Helpers/Api.php:247
+msgid "settings to disconnection is get wrong."
+msgstr ""
+
+#: includes/Helpers/Api.php:308
+msgid "Connection is successful"
+msgstr ""
+
+#: includes/Helpers/Api.php:314
+msgid "Wrong username or password, please try again with correct credentials"
+msgstr ""
+
+#: includes/Helpers/Connect.php:34
+msgid "Request is not verified"
+msgstr ""
+
+#: includes/Helpers/Connect.php:37
+msgid "You are not authorized to that"
+msgstr ""
+
+#: includes/Helpers/Connect.php:92
+msgid "trash to disconnect is get wrong."
+msgstr ""
+
+#: includes/Helpers/Connect.php:110
+msgid "Unable to disconnected from the server, try again later"
+msgstr ""
+
+#: includes/Helpers/Connect.php:124
+msgid "You are not connected"
+msgstr ""
+
+#: includes/Helpers/Connect.php:172 includes/Helpers/Connect.php:210
+msgid "Unable to connect the API, try again later"
+msgstr ""
+
+#: includes/Helpers/Connect.php:237 includes/Helpers/Connect.php:254
+msgid "Plugin is installed and activated successfully"
+msgstr ""
+
+#: includes/Helpers/Connect.php:301
+msgid "Plugin is activated successfully"
+msgstr ""
+
+#: templates/admin/connect.php:9
+msgid "Connect"
+msgstr ""
+
+#: templates/admin/connect.php:22
+msgid "Our Extensions"
+msgstr ""
+
+#: templates/admin/connect.php:23
+msgid "Disconnect"
+msgstr ""
+
+#: templates/admin/connect.php:36
+msgid "Install"
+msgstr ""
+
+#: templates/admin/connect.php:39
+msgid "Activate"
+msgstr ""
+
+#: templates/admin/connect.php:42
+msgid "Buy Now"
+msgstr ""
+
+#: templates/admin/connect.php:56
+msgid "Login in to Connect"
+msgstr ""
+
+#: templates/admin/connect.php:66
+msgid "Don't have account? <a href=\"%s\" target=\"_blank\">Create one</a>"
+msgstr ""
+
+#: templates/admin/connect.php:69 templates/my-account/my-account.php:53
+msgid "Login"
+msgstr ""
+
+#: templates/admin/order-metabox-basic.php:6
+msgid "Zip Code"
+msgstr ""
+
+#: templates/admin/order-metabox-basic.php:13
+msgid "Order Action"
+msgstr ""
+
+#: templates/admin/order-metabox-items.php:16
+msgid "Image"
+msgstr ""
+
+#: templates/admin/stats-dashboard-widget.php:9
+msgid "Sales this month"
+msgstr ""
+
+#: templates/admin/stats-dashboard-widget.php:16
+#: templates/admin/stats-dashboard-widget.php:26
+msgid "%d Order"
+msgid_plural "%d Orders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/admin/stats-dashboard-widget.php:19
+msgid "Pending Transactions"
+msgstr ""
+
+#: templates/admin/stats-dashboard-widget.php:29
+msgid "Transactions on Hold"
+msgstr ""
+
+#: templates/checkout/billing.php:3
+msgid "Billing Details"
+msgstr ""
+
+#: templates/checkout/billing.php:7 templates/checkout/shipping.php:7
+msgid "Complete Name"
+msgstr ""
+
+#: templates/checkout/billing.php:25 templates/checkout/billing.php:30
+#: templates/checkout/billing.php:34 templates/checkout/shipping.php:25
+#: templates/checkout/shipping.php:30
+msgid "House Number and Street Name"
+msgstr ""
+
+#: templates/checkout/billing.php:26 templates/checkout/shipping.php:26
+msgid "Apartment, suits, unit etc. (options)"
+msgstr ""
+
+#: templates/checkout/billing.php:29 templates/checkout/shipping.php:29
+msgid "Town and City"
+msgstr ""
+
+#: templates/checkout/billing.php:33
+msgid "State / County"
+msgstr ""
+
+#: templates/checkout/billing.php:37 templates/checkout/shipping.php:37
+msgid "Postcode / Zip"
+msgstr ""
+
+#: templates/checkout/billing.php:42
+msgid "Phone Number"
+msgstr ""
+
+#: templates/checkout/billing.php:56
+msgid "Ship to a Diffrent Address?"
+msgstr ""
+
+#: templates/checkout/button.php:4
+msgid "Checkout"
+msgstr ""
+
+#: templates/checkout/checkout.php:29
+msgid "Your cart is empty, please visit shop to to purchase items"
+msgstr ""
+
+#: templates/checkout/orders.php:3
+msgid "Your Order"
+msgstr ""
+
+#: templates/checkout/orders.php:8
+msgid "Subtotal"
+msgstr ""
+
+#: templates/checkout/orders.php:48 templates/checkout/orders.php:49
+msgid "Place Order"
+msgstr ""
+
+#: templates/checkout/shipping.php:3
+msgid "Shipping Address"
+msgstr ""
+
+#: templates/checkout/shipping.php:33 templates/checkout/shipping.php:34
+msgid "State / Country"
+msgstr ""
+
+#: templates/emails/customer-new-order.php:101
+#: templates/emails/layouts/template.php:101
+#: templates/orders/offline-order-detail.php:72
+#: templates/orders/order-detail.php:14
+#: templates/orders/paypal-order-detail.php:66
+msgid "Quantity"
+msgstr ""
+
+#: templates/emails/customer-new-order.php:125
+msgid "VIEW %s"
+msgstr ""
+
+#: templates/emails/layouts/template.php:125
+msgid "View %s"
+msgstr ""
+
+#: templates/my-account/my-account.php:13
+msgid "Success"
+msgstr ""
+
+#: templates/my-account/my-account.php:14
+msgid "Error"
+msgstr ""
+
+#: templates/my-account/my-account.php:19
+msgid "Login to the website"
+msgstr ""
+
+#: templates/my-account/my-account.php:20
+msgid "Enter username and password to login."
+msgstr ""
+
+#: templates/my-account/my-account.php:25
+msgid "Email / Username"
+msgstr ""
+
+#: templates/my-account/my-account.php:43
+msgid "Remember Me"
+msgstr ""
+
+#: templates/my-account/my-account.php:61
+msgid "Sign Up Now"
+msgstr ""
+
+#: templates/my-account/my-account.php:62
+msgid "Fill in the form below to get instant access."
+msgstr ""
+
+#: templates/my-account/my-account.php:66
+msgid "Username"
+msgstr ""
+
+#: templates/my-account/my-account.php:87
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/my-account/my-account.php:95
+msgid "Register"
+msgstr ""
+
+#: templates/orders/offline-order-detail.php:26
+#: templates/orders/paypal-order-detail.php:22
+#. translators: The orders label.
+msgid "%s Detail"
+msgstr ""
+
+#: templates/orders/offline-order-detail.php:38
+msgid "Offline"
+msgstr ""
+
+#: templates/orders/offline-order-detail.php:41
+#: templates/orders/paypal-order-detail.php:37
+msgid "Transaction Status"
+msgstr ""
+
+#: templates/orders/offline-order-detail.php:48
+#: templates/orders/paypal-order-detail.php:44
+#. translators: Order label.
+msgid "%s Total"
+msgstr ""
+
+#: templates/orders/offline-order-detail.php:62
+msgid "Offline Payment Instructions"
+msgstr ""
+
+#: templates/orders/offline-order-detail.php:70
+#: templates/orders/order-detail.php:13
+#: templates/orders/paypal-order-detail.php:64
+msgid "Item Name"
+msgstr ""
+
+#: templates/orders/paypal-order-detail.php:29
+msgid "Transaction ID"
+msgstr ""
+
+#: templates/orders/paypal-order-detail.php:34
+msgid "PayPal"
+msgstr ""
+
+#: templates/orders/paypal-order-detail.php:50
+msgid "Transaction Fee"
+msgstr ""
+
+#: templates/orders/success-page.php:4
+msgid "Order Successful"
+msgstr ""
+
+#: templates/orders/success-page.php:7
+msgid "Your order has been placed successfully, please review the order below."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Webinane Commerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://webinane.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "eCommerce WordPress plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webinane"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webinane.com"
+msgstr ""
+
+#: includes/Classes/Orders.php:195
+msgctxt "webinane-commerce"
+msgid "Add New Order"
+msgstr ""
+
+#: includes/Classes/Orders.php:683
+msgctxt "post status label"
+msgid "Processing "
+msgstr ""
+
+#: includes/Classes/Orders.php:694
+msgctxt "post status label"
+msgid "Pending Payment "
+msgstr ""
+
+#: includes/Classes/Orders.php:706
+msgctxt "post status label"
+msgid "On Hold "
+msgstr ""
+
+#: includes/Classes/Orders.php:718
+msgctxt "post status label"
+msgid "Completed "
+msgstr ""
+
+#: includes/Classes/Orders.php:730
+msgctxt "post status label"
+msgid "Cancelled "
+msgstr ""
+
+#: includes/Classes/Orders.php:741
+msgctxt "post status label"
+msgid "Refunded "
+msgstr ""
+
+#: includes/Classes/Orders.php:752
+msgctxt "post status label"
+msgid "Failed "
+msgstr ""

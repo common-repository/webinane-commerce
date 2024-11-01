@@ -1,0 +1,57 @@
+[    
+    {
+        "id" : "show-gross-revenue",
+        "earnings" : "120.00",
+        "title" : "Gross Revenue",
+        "percentage" : "10%",
+        "prevearnings" : "$10.00",
+        "prevtitle" : "Previous Year",
+        "color"  : "clr1"
+    },
+    {
+        "id" : "show-net-revenue",
+        "earnings" : "120.00",
+        "title" : "Gross Revenue",
+        "percentage" : "10%",
+        "prevearnings" : "$10.00",
+        "prevtitle" : "Previous Year",
+        "color"  : "clr2"
+    },
+    {
+        "id" : "show-number-of-orders",
+        "earnings" : "120.00",
+        "title" : "Gross Revenue",
+        "percentage" : "10%",
+        "prevearnings" : "$10.00",
+        "prevtitle" : "Previous Year",
+        "color"  : "clr3"
+    },
+    {
+        "id" : "show-average",
+        "earnings" : "120.00",
+        "title" : "Gross Revenue",
+        "percentage" : "10%",
+        "prevearnings" : "$10.00",
+        "prevtitle" : "Previous Year",
+        "color"  : "clr4"
+    },
+    {
+        "id" : "show-order-value",
+        "earnings" : "120.00",
+        "title" : "Gross Revenue",
+        "percentage" : "10%",
+        "prevearnings" : "$10.00",
+        "prevtitle" : "Previous Year",
+        "color"  : "clr5"
+    },
+    {
+        "id" : "show-numebr-of-order",
+        "earnings" : "120.00",
+        "title" : "Gross Revenue",
+        "percentage" : "10%",
+        "prevearnings" : "$10.00",
+        "prevtitle" : "Previous Year",
+        "color"  : "clr6"
+    }
+
+]
